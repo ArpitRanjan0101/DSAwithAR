@@ -64,3 +64,153 @@ Q8)Given an integer n. You need to recreate the pattern given below for any valu
   *****
    ***
     *
+
+    ----------------------------------
+Q9)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+    * 
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****
+   ***
+    *
+
+    -------------------------------------------
+Q10)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+
+-------------------------------
+Q11)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+1 
+0 1 
+1 0 1 
+0 1 0 1 
+1 0 1 0 1
+
+-------------------------------
+Q12)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+1        1
+12      21
+123    321
+1234  4321
+1234554321
+
+-------------------------------------
+Q13)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15
+
+----------------------------------------
+Q14)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+A
+AB
+ABC
+ABCD
+ABCDE
+
+-----------------------------------------
+Q15)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+ABCDE
+ABCD
+ABC
+AB
+A
+--------------------------
+Q16)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+A
+BB
+CCC
+DDDD
+EEEEE
+
+----------------------------------------
+Q17)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
+
+---------------------------------------------
+Q18)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+E 
+D E 
+C D E 
+B C D E 
+A B C D E
+
+-----------------------------------
+Q19)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+**********
+****  ****
+***    ***
+**      **
+*        *
+*        *
+**      **
+***    ***
+****  ****
+**********
+
+------------------------------------
+Q20)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+*        *
+**      **
+***    ***
+****  ****
+**********
+****  ****
+***    ***
+**      **
+*        *
+
+-------------------------------------------
+Q21)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+*****
+*   *
+*   *
+*   *
+*****
+----------------------------------------------
+Q22)Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+5 5 5 5 5 5 5 5 5 
+5 4 4 4 4 4 4 4 5 
+5 4 3 3 3 3 3 4 5 
+5 4 3 2 2 2 3 4 5 
+5 4 3 2 1 2 3 4 5 
+5 4 3 2 2 2 3 4 5 
+5 4 3 3 3 3 3 4 5 
+5 4 4 4 4 4 4 4 5 
+5 5 5 5 5 5 5 5 5
+
+
+
+
